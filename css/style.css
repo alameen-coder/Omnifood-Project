@@ -79,6 +79,11 @@
 /*  STICKY NAVIGATION */
 .sticky {
   position: fixed;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.97);
+  z-index: 999;
 }
 
 /**************************/
